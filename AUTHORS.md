@@ -1,4 +1,4 @@
-FontLib was designed and developed by Fabien Ménager.
+SvgLib was designed and developed by Fabien Ménager.
 
 ### Current Team
 
@@ -9,9 +9,9 @@ FontLib was designed and developed by Fabien Ménager.
 * **Fabien Ménager** (creator)
 
 ### Contributors
-* **mondrake**
-* [and many more...](https://github.com/dompdf/php-font-lib/graphs/contributors)
+* **ssddanbrown**
+* [and many more...](https://github.com/dompdf/php-svg-lib/graphs/contributors)
 
 ### Thanks
 
-FontLib would not have been possible without strong community support.
+SvgLib would not have been possible without strong community support.
